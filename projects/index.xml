@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Matthijs van Zuylen</title>
+    <link>https://matthijsvz88.github.io/projects/</link>
+    <description>Recent content in Projects on Matthijs van Zuylen</description>
+    <image>
+      <url>https://matthijsvz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://matthijsvz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://matthijsvz88.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard Employment in the Netherlands</title>
+      <link>https://matthijsvz88.github.io/projects/dashboard-employment-in-the-netherlands/</link>
+      <pubDate>Fri, 06 Oct 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://matthijsvz88.github.io/projects/dashboard-employment-in-the-netherlands/</guid>
+      <description>Description This project delves into the employment market of the Netherlands from 2010 until 2022. The Main page contains a dashboard visualizing various figures related to employment in the Netherlands. Initially the Dashboard shows the total amount of jobs by industry and the development of total amount of jobs by gender. By interacting with the Dashboard users can look at other measurements like salary and hours worked and for example look at the figures for characteristics like age, company size or contract type (full time or part time) instead of gender through the filter menu and choose to see the figures for men or women specifically or 20 to 25 year-olds.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard Crime in the Netherlands</title>
+      <link>https://matthijsvz88.github.io/projects/dashboard-crime-in-the-netherlands/</link>
+      <pubDate>Tue, 04 Apr 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://matthijsvz88.github.io/projects/dashboard-crime-in-the-netherlands/</guid>
+      <description>Description In this project we take a look at the development of crime figures in the Netherlands from 2010 until 2022. The main page contains a dashboard allowing users to look at the development of the different types of crimes on a national and regional level. The prevalence and development of different types of crime are visualized along with the rate of solved crimes. Additionally the Dashboard makes use of geospatial data to create a map showing crime-related figures for each municipality in the Netherlands.</description>
+    </item>
+    
+  </channel>
+</rss>

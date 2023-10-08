@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://matthijsvz88.github.io/sitemap.xml
